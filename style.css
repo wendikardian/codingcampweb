@@ -42,6 +42,8 @@
     box-shadow: 5px 5px 10px gray;
 }
 
+
+
 .package-container p{
     color: black;
 }
@@ -75,6 +77,11 @@ table, th,td,tr,td{
 th{
     background-color: darkseagreen;
     color: white;
+}
+
+
+tr:hover{
+    background-color: rgb(209, 250, 236);
 }
 
 .table{
